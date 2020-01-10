@@ -1,36 +1,27 @@
-**nihao**
-~~zheshi sm a ~~
-_ceshi_  
-`zhegeshidaima`  
+TF2.0
+=====
 
-#zheshiyizjibiaoti
-##zhehsierjibiaoji
+###常用api
 
----
-    大家好
-    你好啊
-    我不是很好、
----
-`linux` `网络编程` `socket` `epoll` 
+_____
 
-直接回车不能换  
-这样就可以了
+* tf.data  
 
-**粗体**
-  
-#### _斜体_
-_斜体_
-  
-_斜体_
+      大家好  
+      我是你们最好的朋友
 
-_这是斜体_  
+    * tf.data.Set   
 
-#这是一个有趣的标题  
-
-[我的简介][zhihui]
-
-
-
-
-
+* tf.keras.layers  
+  1.新功能  
+  2.新功能  
+  3.新功能  
+     *  你好  
+     *  你哈  
+     *  你好  
+  4.新功能  
+     - 你好
+     
+* tf.initializers
+* tf.optimizers
 
